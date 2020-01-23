@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">حالات</string>
+    <string name="tryagain">هناك مشكلة يرجى المحاولة مرة أخرى</string>
+    <string name="description">استمتع باختيار ما يناسب حالتك وتميزك</string>
+    <string name="share_game">شارك التطبيق</string>
+    <string name="game_rating">قيم التطبيق</string>
+    <string name="sharemessage">لقد جربت التطبيق وهو رائع جدا انصحكم به</string>
+    <string name="installmessenger">يرجى تثبيت تطبيق Facebook Messenger</string>
+    <string name="problem">هناك مشكلة تأكد من الاتصال بالانترنت</string>
+    <string name="favorite">المفضلة</string>
+    <string name="messenger">Messenger</string>
+    <string name="copy">نسخ</string>
+    <string name="share">مشاركة</string>
+    <string name="email">البريد الاكتروني</string>
+    <string name="logout">خروج</string>
+    <string name="no_email_clients_installed">لا توجد برامج بريد إلكتروني مثبتة.</string>
+    <string name="from_category">من فئة</string>
+    <string name="send_email">إرسال بريد...</string>
+    <string name="copied_clipboard">تم النسخ إلى الحافظة</string>
+    <string name="mainBanner">ca-app-pub-4574345653098269/9040031596</string>
+    <string name="IDAPP">ca-app-pub-4574345653098269~5987203285</string>
+    <string name="inter1">ca-app-pub-4574345653098269/1899908177</string>
+    <string name="messageBanner">ca-app-pub-4574345653098269/4468030062</string>
+    <string name="inter2">ca-app-pub-4574345653098269/5050483992</string>
+</resources>

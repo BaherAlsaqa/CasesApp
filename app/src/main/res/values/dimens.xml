@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widthheight75dp">75dp</dimen>
+    <dimen name="text16sp">16sp</dimen>
+    <dimen name="text14sp">14sp</dimen>
+    <dimen name="heightline0_3dp">0.3dp</dimen>
+    <dimen name="radius5dp">5dp</dimen>
+    <dimen name="elevationcardview">2dp</dimen>
+    <dimen name="text18sp">18sp</dimen>
+    <dimen name="height250dp">250dp</dimen>
+    <dimen name="height255dp">255dp</dimen>
+    <dimen name="text20sp">20sp</dimen>
+    <dimen name="height305dp">305dp</dimen>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    package="im.ehab.casesapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/IDAPP" />
+
+        <activity android:name="im.ehab.casesapp.activitys.FavoritsActivity"
+            android:theme="@style/AppThemeNoActionBar"
+            android:screenOrientation="portrait"></activity>
+
+        <service android:name="im.ehab.casesapp.services.FCMService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="im.ehab.casesapp.activitys.MessagesActivity"
+            android:theme="@style/AppThemeNoActionBar"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="im.ehab.casesapp.activitys.MainActivity"
+            android:theme="@style/AppThemeNoActionBar"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name=".activitys.SplashScreen"
+            android:theme="@style/AppThemeNoActionBar"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@mipmap/ic_launcher_round" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorPrimary" />
+    </application>
+
+</manifest>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251314832980",
+    "firebase_url": "https://casesapp-56c19.firebaseio.com",
+    "project_id": "casesapp-56c19",
+    "storage_bucket": "casesapp-56c19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251314832980:android:646816abe0a25479",
+        "android_client_info": {
+          "package_name": "im.ehab.casesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251314832980-9pfr39kmk78kf99ld0gdpuaihfhil4s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "im.ehab.casesapp",
+            "certificate_hash": "08bba4d3067e127ef45c1c1784a1c67d5f4b37a6"
+          }
+        },
+        {
+          "client_id": "251314832980-jkp5s03ead1592k3d9kahj5cu1b27pj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh653D1qTracAnEJIRhb71GzNkHJJ6axU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251314832980-jkp5s03ead1592k3d9kahj5cu1b27pj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

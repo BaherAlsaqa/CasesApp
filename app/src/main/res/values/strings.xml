@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">حالات</string>
+    <string name="tryagain">There is a problem please try again</string>
+    <string name="description">Choose what suits your situation and excellence</string>
+    <string name="share_game">Share App</string>
+    <string name="game_rating">Rating app</string>
+    <string name="problem">There is a problem making sure you connect to the Internet</string>
+    <string name="sharemessage">I have tried the application and it is very cool to advise you</string>
+    <string name="installmessenger">Please Install Facebook Messenger</string>
+    <string name="favorite">Favorite</string>
+    <string name="messenger">Messenger</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="no_email_clients_installed">There are no email clients installed.</string>
+    <string name="from_category">from the category</string>
+    <string name="send_email">Send mail...</string>
+    <string name="copied_clipboard">Copied to clipboard</string>
+    <string name="mainBanner">ca-app-pub-4574345653098269/9040031596</string>
+    <string name="IDAPP">ca-app-pub-4574345653098269~5987203285</string>
+    <string name="inter1">ca-app-pub-4574345653098269/1899908177</string>
+    <string name="messageBanner">ca-app-pub-4574345653098269/4468030062</string>
+    <string name="inter2">ca-app-pub-4574345653098269/5050483992</string>
+</resources>
